@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 [![ReadMe Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&hide=TeX&layout=compact&theme=tokyonight&title_color=00a83b&langs_count=10)](https://github.com/otaviopato/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&count_private=true" alt="otaviopato" />
+
 
