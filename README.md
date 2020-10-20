@@ -1,5 +1,6 @@
-## Olá 👋
+## Otávio Pato 👋
 
+## :school_satchel: Estudante de ciência da computação na UFFS. 
 <!--
 **otaviopato/otaviopato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
