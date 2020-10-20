@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![ReadMe Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&hide=TeX&layout=compact&theme=tokyonight&title_color=00a83b&langs_count=10)](https://github.com/otaviopato/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&count_private=true" alt="otaviopato" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&hide_border=true&theme=dark" alt = "Git status" title="Meu status do github" style = "float: right; margin-left: 0px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&hide_border=true&theme=dark" alt = "Git status" title ="As linguagens que eu mais uso" style = "float: left; margin-right: 0px;" />
 
