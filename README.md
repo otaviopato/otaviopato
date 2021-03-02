@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span class="badge bg-primary">Primary</span>
-<span class="badge bg-secondary">Secondary</span>
-<span class="badge bg-success">Success</span>
-<span class="badge bg-danger">Danger</span>
-<span class="badge bg-warning text-dark">Warning</span>
-<span class="badge bg-info text-dark">Info</span>
-<span class="badge bg-light text-dark">Light</span>
-<span class="badge bg-dark">Dark</span>
+<button type="button" class="btn btn-primary">
+  Profile <span class="badge bg-secondary">9</span>
+  <span class="visually-hidden">unread messages</span>
+</button>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&hide_border=true&theme=dark" alt = "Git status" title="Meu status do github" style = "float: right; margin-left: 0px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&hide_border=true&theme=dark" alt = "Git status" title ="As linguagens que eu mais uso" style = "float: left; margin-right: 0px;" />
