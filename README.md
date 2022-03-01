@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p id="contact">
+  <a href="https://www.linkedin.com/in/otavio-pato/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 <button type="button" class="btn btn-primary">
   Profile <span class="badge bg-secondary">9</span>
   <span class="visually-hidden">unread messages</span>
