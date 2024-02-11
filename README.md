@@ -23,20 +23,12 @@ Here are some ideas to get you started:
   <span class="visually-hidden">unread messages</span>
 </button>
 
-
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&theme=radical" alt="Otávio Pato's GitHub Stats">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&theme=vision-friendly-dark" alt="Otávio Pato's GitHub Stats" />
-</p>
+## 📚 Linguagens Mais Usadas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&theme=radical" alt="Top Languages">
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=otaviopato&theme=minimal" alt="Gráfico de Atividade do GitHub" />
-</p>
 
