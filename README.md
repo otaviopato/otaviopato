@@ -24,5 +24,11 @@ Here are some ideas to get you started:
 </button>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&hide_border=true&theme=dark" alt = "Git status" title="Meu status do github" style = "float: right; margin-left: 0px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&hide_border=true&theme=dark" alt = "Git status" title ="As linguagens que eu mais uso" style = "float: left; margin-right: 0px;" />
+## 📊 Estatísticas do GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=otaviopato&show_icons=true&theme=radical" alt="Otávio Pato's GitHub Stats">
+
+## 📚 Linguagens Mais Usadas
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviopato&layout=compact&theme=radical" alt="Top Languages">
 
